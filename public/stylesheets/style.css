@@ -1,0 +1,23 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.btn {
+  background-color: #00B7FF;
+  color: #fff;
+  display: inline-block;
+  margin: 2rem 1rem 0 0;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+  min-width: 105px;
+}
+
+.profile-info {
+  word-break: break-all;
+}
